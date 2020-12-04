@@ -1,0 +1,35 @@
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
+$ git clone https://github.com/carlosgs-iesquevedo/entornos1T.git
+Cloning into 'entornos1T'...
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), 1.55 KiB | 29.00 KiB/s, done.
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
+$ ls
+entornos1T/
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
+$ cd entornos1T/
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA/entornos1T (main)
+$ cd ..
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
+$ git branch
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
+$ ls
+entornos1T/
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
+$ git checkout -b MASABANDA-TITUANA
+Switched to a new branch 'MASABANDA-TITUANA'
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (MASABANDA-TITUANA)
+$ git branch
+
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (MASABANDA-TITUANA)
+$
