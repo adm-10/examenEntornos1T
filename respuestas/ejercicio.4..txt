@@ -14,22 +14,18 @@ entornos1T/
 alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
 $ cd entornos1T/
 
-alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA/entornos1T (main)
-$ cd ..
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA/entornos1T/respuestas (main)
+$ git branch MASABANDA-TITUANA
 
-alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA/entornos1T/respuestas (main)
 $ git branch
+  MASABANDA-TITUANA
+* main
 
-alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
-$ ls
-entornos1T/
 
-alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (master)
-$ git checkout -b MASABANDA-TITUANA
-Switched to a new branch 'MASABANDA-TITUANA'
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA/entornos1T/respuestas (main)
+$ git checkout MASABANDA-TITUANA
+Switched to branch 'MASABANDA-TITUANA'
 
-alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (MASABANDA-TITUANA)
-$ git branch
-
-alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA (MASABANDA-TITUANA)
+alexd@WORKSTATION MINGW64 ~/Desktop/examen/examen-MASABANDA-TITUANA/entornos1T/respuestas (MASABANDA-TITUANA)
 $
